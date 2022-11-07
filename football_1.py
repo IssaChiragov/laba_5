@@ -23,8 +23,13 @@ refresh_rate = 60
 
 # Colors
 ''' add colors you use as RGB values here '''
+<<<<<<< Updated upstream
 RED = (255, 20, 0)
 GREEN = (52, 170, 36)
+=======
+RED = (255, 10, 0)
+GREEN = (52, 169, 36)
+>>>>>>> Stashed changes
 BLUE = (29, 116, 248)
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
